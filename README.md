@@ -21,15 +21,13 @@ Preparar, Sustentar e Promover jovens profissionais de TI a se qualificarem para
 o mercado de trabalho, nos aspectos técnicos e comportamentais, para conseguirem
 transpor rapidamente a fase de adaptação, acelerando seu amadurecimento e
 valorizando suas competências.
-“Be Water, my friend”
-Bruce Lee
+> “Be Water, my friend” - Bruce Lee
 
 ## Visão
 
 Ser um ecossistema inovador e referência no preparo de profissionais para o
 ambiente corporativo.
-“Think Big, Start Small and Learn Fast.”
-Chunka Mui
+> “Think Big, Start Small and Learn Fast.” - Chunka Mui
 
 ## Valores
 
@@ -37,8 +35,7 @@ Chunka Mui
 * Intensidade, para rápida aquisição de conhecimento e aproveitamento do tempo
 * Resiliência, para permitir adequação à realidade corporativa
 
-“Vincit qui se Vincit.”
-Syrus
+> “Vincit qui se Vincit.” - Syrus
 
 ## Pilares
 
