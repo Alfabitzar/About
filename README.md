@@ -1,5 +1,5 @@
 # ALFABITZAR
-Repositório Documental do Projeto Alfabitzar
+Porquê conhecimento nunca é demais!
 
 ## Apresentação
 
