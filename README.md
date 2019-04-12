@@ -1,4 +1,4 @@
-# ALFABTIZAR
+# ALFABITZAR
 Repositório Documental do Projeto Alfabitzar
 
 # Apresentação
