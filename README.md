@@ -33,63 +33,63 @@ Chunka Mui
 
 ## Valores
 
-• Dinamismo, para constante aperfeiçoamento
-• Intensidade, para rápida aquisição de conhecimento e aproveitamento do tempo
-• Resiliência, para permitir adequação à realidade corporativa
+* Dinamismo, para constante aperfeiçoamento
+* Intensidade, para rápida aquisição de conhecimento e aproveitamento do tempo
+* Resiliência, para permitir adequação à realidade corporativa
 
 “Vincit qui se Vincit.”
 Syrus
 
 ## Pilares
 
-• Preparar
-• Sustentar
-• Promover
+* Preparar
+* Sustentar
+* Promover
 
 ## Público-Alvo
 
 ### Profissionais
-o em formação;
-o da área de TI;
-o residentes na mesorregião de Marília (~100km);
-o em busca de conhecimento de ponta.
+* em formação;
+* da área de TI;
+* residentes na mesorregião de Marília (~100km);
+* em busca de conhecimento de ponta.
+
 ### Empresas
-o que pretendem qualificar seus jovens profissionais;
-o que buscam profissionais qualificados.
+* que pretendem qualificar seus jovens profissionais;
+* que buscam profissionais qualificados.
 
 ## Diferenciais
 
-• Formação Suplementar;
-• Desenvolvimento Integral;
-• Conhecimento Atualizado;
-• Mentalidade Open-Source.
+* Formação Suplementar;
+* Desenvolvimento Integral;
+* Conhecimento Atualizado;
+* Mentalidade Open-Source.
 
 ## Potencial
 
-• 150 novos profissionais em 2017;
-• 353 empresas de TI na região;
-• Ausência de treinamentos avançados na região;
-• Ausência de treinamentos em SoftSkills na área de TI;
-• Grande demanda por profissionais de alto desempenho.
+* 150 novos profissionais em 2017;
+* 353 empresas de TI na região;
+* Ausência de treinamentos avançados na região;
+* Ausência de treinamentos em SoftSkills na área de TI;
+* Grande demanda por profissionais de alto desempenho.
 
 ## Serviços
 
-• Treinamentos presenciais;
-• Mentoria on-line;
-• Hub de contatos;
-• Laboratório open-source.
+* Treinamentos presenciais;
+* Mentoria on-line;
+* Hub de contatos;
+* Laboratório open-source.
 
 ## Produtos
 
-• Plataforma EAD Open-Source;
-• Projetos Open-Source;
-• Projetos Beneficentes.
+* Plataforma EAD Open-Source;
+* Projetos Open-Source;
+* Projetos Beneficentes.
 
 ## Execução
 
 ### Treinamentos
-• Instrução Presencial: 24 Sábados, 144 horas - 6 horas por Sábado (3
-manhã, 3 tarde);
-• Laboratorial: 5 Horas por Semana, 120 Horas;
-• Mentoria: 1 Hora por Semana, 24 Horas;
-• Total de 288 horas (30% Softskill, 70% Hardskills).
+* Instrução Presencial: 24 Sábados, 144 horas - 6 horas por Sábado (3 manhã, 3 tarde);
+* Laboratorial: 5 Horas por Semana, 120 Horas;
+* Mentoria: 1 Hora por Semana, 24 Horas;
+* Total de 288 horas (30% Softskill, 70% Hardskills).
